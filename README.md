@@ -1,5 +1,6 @@
 # DisasterTweets
 Predictive Classification of Tweets into Natural Disaster tweets &amp; others
+
 https://www.kaggle.com/competitions/nlp-getting-started/overview
 
 The purpose of this project is to utilize Natural Language Processing to aid in monitoring Twitter tweets as a source of news regarding announcement of a disaster. We are tasked with building a model that predicts which tweets are about actual disasters versus not. The dataset consists of 10,000 tweets that were previously classified. This project was also completed as part of the Introduction to Deep Learning course at University of Colorado Boulder for Week 4 content. 
