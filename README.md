@@ -14,6 +14,6 @@ Bidirectional layer: Y
 Optimizer: Adam	20	
 Regularization: L2 & recurrent	
 Regularization: 0.1	
-Public leaderboard score: 79.03
+Public leaderboard score: 77.97
 
-<img width="1007" alt="Screen Shot 2024-02-11 at 11 24 20 PM" src="https://github.com/ancr8790/DisasterTweets/assets/95835246/fcd9eb08-7a4f-421b-8a4c-eb522e020851">
+<img width="837" alt="Screen Shot 2024-02-16 at 5 18 57 PM" src="https://github.com/ancr8790/DisasterTweets/assets/95835246/7d05acbf-5596-4efd-8149-6b50f6574a11">
